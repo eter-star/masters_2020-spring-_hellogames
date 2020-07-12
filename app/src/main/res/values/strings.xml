@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+    <string name="title_name">Game Info</string>
+    <string name="knowmore_button">DO YOU WANT TO KNOW MORE?</string>
+</resources>
